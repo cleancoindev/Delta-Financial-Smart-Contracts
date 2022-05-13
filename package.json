@@ -42,7 +42,7 @@
     "hardhat-gas-reporter": "^1.0.4",
     "hardhat-tracer": "^1.0.0-alpha.2",
     "seedrandom": "^3.0.5",
-    "truffle": "^5.1.41",
+    "truffle": "^5.5.11",
     "truffle-flattener": "^1.4.4",
     "truffle-ledger-provider": "https://github.com/UMAprotocol/truffle-ledger-provider"
   },
